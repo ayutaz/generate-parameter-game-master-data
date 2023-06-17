@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "com.annulusgames.unity-codegen": "https://github.com/AnnulusGames/UnityCodeGen.git?path=/Assets/UnityCodeGen",
     "com.cysharp.unitask": "2.3.3",
     "com.unity.collab-proxy": "2.0.4",
     "com.unity.feature.2d": "2.0.0",
